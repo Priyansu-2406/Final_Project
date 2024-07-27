@@ -1,6 +1,7 @@
 # Final_Project
 
 Project 1:
+
 Number_Guessing_Game
 Overview
 
@@ -24,6 +25,7 @@ Players are required to guess numbers generated based on the selected mode. If t
 
 
 Project 2:
+
 To-do_List
 This is a simple command-line To-Do List application written in C++. It allows users to manage tasks with functionalities such as adding, removing, listing tasks, checking overdue tasks, and undoing last actions.
 
@@ -40,6 +42,7 @@ Add Task List Tasks by Priority Remove Task Undo Last Action Check Past Due Task
 
 
 Project 3:
+
 Social_Media_Simulation
 This project is a simple console-based social media simulation that allows users to create accounts, send messages, manage friendships, and organize themselves into social groups.
 
